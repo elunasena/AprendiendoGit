@@ -1,3 +1,7 @@
 Hola.
 
 Estoy aprendiendo Git.
+
+Tengo 29 años.
+
+Soy de Medellín y estoy iniciando en el mundo de la programación...
